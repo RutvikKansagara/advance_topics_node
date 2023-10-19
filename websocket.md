@@ -82,5 +82,5 @@ output:
  - `Online Games`: Multiplayer games that involve real-time party play are also using real-time communication. Eg. Valorant, Fortnite, etc.
  - `Social Media`: Instant notifications and updates use WebSockets.
  - `Enterprise Work Applications`: Applications that enable collaborative work where multiple users can work on the same project simultaneously. Eg. Google Docs, Sheets, Figma, etc.
- - 
+  
  
