@@ -7,7 +7,8 @@
     "test": "jasmine",
     "error": "nodemon error-handling.js",
     "without": "nodemon without-clustering.js",
-    "with": "nodemon with-clustering.js"
+    "with": "nodemon with-clustering.js",
+    "async":"nodemon asynchronous-programming.js"
   },
   "author": "",
   "license": "ISC",
